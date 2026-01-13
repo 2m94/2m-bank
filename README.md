@@ -46,5 +46,3 @@ This project demonstrates production-grade architecture using the **App Router**
 
 ---
 
-## 🧱 Architecture Overview
-
